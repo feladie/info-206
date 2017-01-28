@@ -1,0 +1,10 @@
+Pride and Prejudice,http://people.ischool.berkeley.edu/~tygar/for.i206/pg1342.txt
+Alice's Adventures in Wonderland,http://people.ischool.berkeley.edu/~tygar/for.i206/pg11.txt
+The Yellow Wallpaper,http://people.ischool.berkeley.edu/~tygar/for.i206/pg1952.txt
+The Adventures of Huckleberry Finn,http://people.ischool.berkeley.edu/~tygar/for.i206/pg76.txt
+Beowulf,http://people.ischool.berkeley.edu/~tygar/for.i206/pg16328.txt
+The Adventures of Sherlock Holmes,http://people.ischool.berkeley.edu/~tygar/for.i206/pg1661.txt
+The Prince,http://people.ischool.berkeley.edu/~tygar/for.i206/pg1232.txt
+Metamorphosis,http://people.ischool.berkeley.edu/~tygar/for.i206/pg5200.txt
+Les Miserables,http://people.ischool.berkeley.edu/~tygar/for.i206/pg135.txt
+The Adventures of Tom Sawyer,http://people.ischool.berkeley.edu/~tygar/for.i206/pg74.txt

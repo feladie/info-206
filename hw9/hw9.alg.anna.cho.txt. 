@@ -1,0 +1,9 @@
+I used a bottom-up approach to solve Part 3. By starting from the bottom of the triangle and summing each subtriangle until we reach the top of the triangle, we can discard subtriangles that do not produce maximum sums. Here are the steps in my algorith:
+
+1) Starting at the bottom of the triangle, for each pair of adjacent numbers in the line, choose the largest number and put it into its own list. Add this list to a larger container list. We now have a list of lists.
+
+2) Go to the next line (the line above this line). For each number in this line, find the sum of the elements within the list that either shares the number's index or the index above within the container list. In other words, we are now considering each subtriangle whose top-most number is an element of this line. Choose the list that provides the greatest sum and add the top-most number in the subtriangle to that list. Discard any of the lists we did not add a number to. We have now eliminated some subtriangles. Our list of lists now only contains the same number of elements as the line we are examining. Continue to the next line up and repeat this step using the elements of this line as the top-most number of its subtriangle. We will traverse up the lines of the triangle using this pattern until we reach the top of the triangle.
+
+3) When you reach the top of the triangle, you will have only two lists to choose from. Choose the list that has the greatest sum, and add the top-most number to that list. You now have a list containing the path that will produce the greatest sum. You can easily sum across these elements to find the maximum sum.
+
+Essentially, this bottom-up approach allows us to solve each subtriangle so that we can determine what the future sum will be if we choose the number to the left or the right of the number in question. 

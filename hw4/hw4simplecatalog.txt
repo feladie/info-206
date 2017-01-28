@@ -1,0 +1,3 @@
+Three Felines and One Canine,http://people.ischool.berkeley.edu/~tygar/for.i206/3cats1dog.txt
+Two Felines and Two Canines,http://people.ischool.berkeley.edu/~tygar/for.i206/2cats2dogs.txt
+http Feline and Three Canines and One Turtle,http://people.ischool.berkeley.edu/~tygar/for.i206/1cat3dogs1turtle.txt
